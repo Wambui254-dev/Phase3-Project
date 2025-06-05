@@ -129,7 +129,7 @@ These visualizations help in understanding the data, identifying important featu
 ## **Integrated Development Environment (IDE)**
 **Jupyter Notebook**: For interactive data analysis and documentation.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 Data/ → Folder containing datasets for analysis
 
